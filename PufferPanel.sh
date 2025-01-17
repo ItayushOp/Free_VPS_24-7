@@ -6,9 +6,9 @@ RED='\033[0;31m'
 echo "
 #######################################################################################
 #
-#                                  @SharpyGamerYT
+#                                  @AyushTheWarrior
 #
-#                           Discord: discord.gg/CrazeCloud
+#                           OutTCast Community OutCastNam nhi Brand he Brand
 #
 #
 #######################################################################################"
