@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ROOTFS_DIR=/home/runner/workspace
+ROOTFS_DIR=/cloudide/workspace/OutCastHosting
 export PATH=$PATH:~/.local/usr/bin
 
 max_retries=50
